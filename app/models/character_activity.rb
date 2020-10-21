@@ -1,0 +1,4 @@
+class CharacterActivity < ApplicationRecord
+  belongs_to :activity
+  belongs_to :character
+end
