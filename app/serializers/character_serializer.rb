@@ -1,4 +1,4 @@
 class CharacterSerializer
   include FastJsonapi::ObjectSerializer
-  attributes :name, :nickname, :personality, :hobbies, :catchphrase, :image, :activities
+  attributes :image, :name, :nickname, :personality, :hobbies, :catchphrase, :activities
 end

@@ -5,30 +5,34 @@ class CharactersController < ApplicationController
     end
 
     def show
-        character = Character.find(id: params[:id])
+        character = Character.find_by(id: params[:id])
         render json: CharacterSerializer.new(character)
     end
 
     def create
-        character = Character.create(character_params(:name, :nickname, :personality, :hobbies, :catchphrase, :image))
+        character = Character.create(character_params)
+        render json: CharacterSerializer.new(character)
+    end
+
+     def edit
         byebug
-        render json: character
+        character = Character.find_by(id: params[:id])
     end
 
     def update
-        character = Character.find(params[:id])
+        byebug
+        character = Character.find_by(id: params[:id])
         character.update(character_params)
-    end
-
-    def edit
+        render json: CharacterSerializer.new(character)
     end
 
     def destroy
     end
 
+
     private
         def character_params
-            params.require(:character).permit(*args)
+            params.require(:character).permit(:image, :name, :nickname, :personality, :hobbies, :catchphrase)
         end
 
 end
