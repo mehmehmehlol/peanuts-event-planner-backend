@@ -14,19 +14,17 @@ class CharactersController < ApplicationController
         render json: CharacterSerializer.new(character)
     end
 
-     def edit
-        byebug
-        character = Character.find_by(id: params[:id])
-    end
-
     def update
-        byebug
         character = Character.find_by(id: params[:id])
+        # byebug
         character.update(character_params)
         render json: CharacterSerializer.new(character)
     end
 
     def destroy
+        character = Character.find_by(id: params[:id])
+        character.destroy
+        render json: {"message": "Characted is removed."}
     end
 
 
