@@ -1,0 +1,365 @@
+
+---
+activities:
+  columns:
+  - id
+  - name
+  - description
+  - event_id
+  - created_at
+  - updated_at
+  records: 
+  - - 8
+    - Go On a Hike
+    - During the fall season, it's nice to explore the woods with family and friends
+      in this very chill weather.
+    - 5
+    - '2020-10-23 07:39:38.025774'
+    - '2020-10-23 07:39:38.025774'
+  - - 9
+    - Picnic
+    - The fall weather is perfect, since it's not too hot and not too cold. Might
+      as well enjoy lunch outdoor with family and friends. And don't forget to pack
+      some autumn treats, like pumpkin pies and such!
+    - 5
+    - '2020-10-23 07:39:38.033815'
+    - '2020-10-23 07:39:38.033815'
+  - - 10
+    - Pumpkin Patch & Pumpkins
+    - When is a better time to go pick pumpkins at pumpkin patches? Pick a pumpkin
+      and go home and carve these pumpkins and bake pumpkin seeds with your family
+      and friends!
+    - 4
+    - '2020-10-23 07:39:38.040275'
+    - '2020-10-23 07:39:38.040275'
+  - - 11
+    - Jack-O'-Lanterns Time!!
+    - After visiting the pumpkin patches, pick a pattern and start carving these beautiful
+      pumpkins. Don't forget the candles!
+    - 4
+    - '2020-10-23 07:39:38.046118'
+    - '2020-10-23 07:39:38.046118'
+  - - 12
+    - Apple Cobbler Yum!
+    - After visiting the pumpkin patches, pick a pattern and start carving these beautiful
+      pumpkins. Don't forget the candles!
+    - 4
+    - '2020-10-23 07:39:38.052000'
+    - '2020-10-23 07:39:38.052000'
+  - - 13
+    - Apple Orchard Visit
+    - Some places sell bushels of apples, some places even let you pick your own apples!
+      Either way, best of all is you got to enjoy the fresh air and the fresh smell
+      of apple, mmmm...
+    - 6
+    - '2020-10-23 07:39:38.058448'
+    - '2020-10-23 07:39:38.058448'
+  - - 14
+    - In the Making of Apple Cobblers
+    - Making apple cobblers is such a classic Fall activity to do. Highly Recommend
+      to join our event to apple orchard and make apple cobblers with our national
+      dog, Snoopy!
+    - 6
+    - '2020-10-23 07:39:38.064741'
+    - '2020-10-23 07:39:38.064741'
+  - - 15
+    - Watch Horror Movies
+    - When will be a better time to watch a horror movie, besides Halloween night?
+      Friday the 13th anyone?? Grab some popcorns and blanket and watch movies with
+      your family and friends.
+    - 7
+    - '2020-10-23 07:39:38.071017'
+    - '2020-10-23 07:39:38.071017'
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - '2020-10-23 07:34:39.139254'
+    - '2020-10-23 07:34:39.139254'
+
+---
+character_activities:
+  columns:
+  - id
+  - activity_id
+  - character_id
+  - created_at
+  - updated_at
+  records: 
+  - - 22
+    - 10
+    - 10
+    - '2020-10-23 07:39:38.083154'
+    - '2020-10-23 07:39:38.083154'
+  - - 23
+    - 10
+    - 11
+    - '2020-10-23 07:39:38.100388'
+    - '2020-10-23 07:39:38.100388'
+  - - 24
+    - 10
+    - 12
+    - '2020-10-23 07:39:38.107244'
+    - '2020-10-23 07:39:38.107244'
+  - - 25
+    - 11
+    - 10
+    - '2020-10-23 07:39:38.114047'
+    - '2020-10-23 07:39:38.114047'
+  - - 26
+    - 11
+    - 11
+    - '2020-10-23 07:39:38.120783'
+    - '2020-10-23 07:39:38.120783'
+  - - 27
+    - 8
+    - 13
+    - '2020-10-23 07:39:38.128246'
+    - '2020-10-23 07:39:38.128246'
+  - - 28
+    - 8
+    - 14
+    - '2020-10-23 07:39:38.134748'
+    - '2020-10-23 07:39:38.134748'
+  - - 29
+    - 8
+    - 15
+    - '2020-10-23 07:39:38.141375'
+    - '2020-10-23 07:39:38.141375'
+  - - 30
+    - 9
+    - 13
+    - '2020-10-23 07:39:38.148329'
+    - '2020-10-23 07:39:38.148329'
+  - - 31
+    - 9
+    - 14
+    - '2020-10-23 07:39:38.155657'
+    - '2020-10-23 07:39:38.155657'
+  - - 32
+    - 9
+    - 15
+    - '2020-10-23 07:39:38.164016'
+    - '2020-10-23 07:39:38.164016'
+  - - 33
+    - 10
+    - 17
+    - '2020-10-23 07:39:38.171054'
+    - '2020-10-23 07:39:38.171054'
+  - - 34
+    - 12
+    - 18
+    - '2020-10-23 07:39:38.178127'
+    - '2020-10-23 07:39:38.178127'
+  - - 35
+    - 12
+    - 15
+    - '2020-10-23 07:39:38.184385'
+    - '2020-10-23 07:39:38.184385'
+  - - 36
+    - 12
+    - 16
+    - '2020-10-23 07:39:38.191017'
+    - '2020-10-23 07:39:38.191017'
+  - - 37
+    - 13
+    - 11
+    - '2020-10-23 07:39:38.205202'
+    - '2020-10-23 07:39:38.205202'
+  - - 38
+    - 13
+    - 13
+    - '2020-10-23 07:39:38.211254'
+    - '2020-10-23 07:39:38.211254'
+  - - 39
+    - 13
+    - 15
+    - '2020-10-23 07:39:38.217383'
+    - '2020-10-23 07:39:38.217383'
+  - - 40
+    - 14
+    - 10
+    - '2020-10-23 07:39:38.223057'
+    - '2020-10-23 07:39:38.223057'
+  - - 41
+    - 14
+    - 12
+    - '2020-10-23 07:39:38.229088'
+    - '2020-10-23 07:39:38.229088'
+  - - 42
+    - 14
+    - 14
+    - '2020-10-23 07:39:38.235467'
+    - '2020-10-23 07:39:38.235467'
+  - - 43
+    - 15
+    - 13
+    - '2020-10-23 07:39:38.241546'
+    - '2020-10-23 07:39:38.241546'
+  - - 44
+    - 15
+    - 14
+    - '2020-10-23 07:39:38.247787'
+    - '2020-10-23 07:39:38.247787'
+  - - 45
+    - 15
+    - 15
+    - '2020-10-23 07:39:38.253886'
+    - '2020-10-23 07:39:38.253886'
+
+---
+characters:
+  columns:
+  - id
+  - name
+  - nickname
+  - personality
+  - hobbies
+  - catchphrase
+  - image
+  - created_at
+  - updated_at
+  records: 
+  - - 10
+    - Charlie Brown
+    - Chuck/Charles/Big Brother/Sack
+    - gentle, kind-hearted, pessimistic sometimes
+    - playing baseball with friends, hanging out with Snoopy
+    - Good Grief
+    - https://static.wikia.nocookie.net/peanuts/images/b/b6/Charlie_Brown_smiling.png/revision/latest/scale-to-width-down/185?cb=20170723213539
+    - '2020-10-23 07:39:37.919738'
+    - '2020-10-23 07:39:37.919738'
+  - - 11
+    - Sally Brown
+    -
+    - sweet, friendly, self-centered, optimistic
+    - being the center of attention, talking to the school building
+    -
+    - https://static.wikia.nocookie.net/peanuts/images/b/b3/Peanuts_-_Sally_Brown_Nervous.png/revision/latest/scale-to-width-down/152?cb=20120827021029
+    - '2020-10-23 07:39:37.927021'
+    - '2020-10-23 07:39:37.927021'
+  - - 12
+    - Marcie
+    -
+    - unassuming sweetness, intelligent
+    - reading books, appreciating arts, doing homework
+    -
+    - https://static.wikia.nocookie.net/peanuts/images/0/0b/Marcie_clipart.gif/revision/latest/scale-to-width-down/200?cb=20190131141521
+    - '2020-10-23 07:39:37.933304'
+    - '2020-10-23 07:39:37.933304'
+  - - 13
+    - Peppermint Patty
+    - Sir
+    - loyal, courageous, vulnerable at times
+    - playing sports, skating
+    -
+    - https://upload.wikimedia.org/wikipedia/en/a/a0/Peppermint_Patty.png
+    - '2020-10-23 07:39:37.938983'
+    - '2020-10-23 07:39:37.938983'
+  - - 14
+    - Schroeder
+    -
+    - always a musician
+    - playing his toy piano, loving Beethoven, playing hockey
+    -
+    - https://static.wikia.nocookie.net/peanuts/images/e/ea/Piano.png/revision/latest/scale-to-width-down/310?cb=20190907012647
+    - '2020-10-23 07:39:37.944353'
+    - '2020-10-23 07:39:37.944353'
+  - - 15
+    - Snoopy
+    - Joe Cool
+    - funny, imaginative, good-natured
+    - suppertime, fantasizing imaginative lives, writing
+    -
+    - https://static.wikia.nocookie.net/peanuts/images/3/3e/Snoopytrans.png/revision/latest/scale-to-width-down/310?cb=20200323161900
+    - '2020-10-23 07:39:37.949197'
+    - '2020-10-23 07:39:37.949197'
+  - - 16
+    - Linus van Pelt
+    - Linus
+    - eccentric, delightfully hopeful, intellegent
+    - sucking his thumbs, holding his security blanket
+    -
+    - https://static.wikia.nocookie.net/peanuts/images/7/79/LinusBlanket.gif/revision/latest/scale-to-width-down/310?cb=20190808175420
+    - '2020-10-23 07:39:37.959793'
+    - '2020-10-23 07:39:37.959793'
+  - - 17
+    - name
+    - nickname
+    - personality
+    - hobbies
+    - catchphrase
+    - https://upload.wikimedia.org/wikipedia/en/e/e9/Lucy_van_Pelt.png
+    - '2020-10-23 07:39:37.963919'
+    - '2020-10-23 17:15:57.853816'
+  - - 18
+    - Woodstock
+    - WoodStock
+    - chill, adventurous
+    - hanging out with Snoopy, being Snoopy\'s helicopter pilot, eating worms
+    - "''''''''' ''' ''''' ''''"
+    - https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Woodstock.png/220px-Woodstock.png
+    - '2020-10-23 07:39:37.967776'
+    - '2020-10-23 07:49:02.622183'
+
+---
+events:
+  columns:
+  - id
+  - name
+  - description
+  - venue
+  - location
+  - date
+  - time
+  - created_at
+  - updated_at
+  records: 
+  - - 4
+    - Pumpkin Time!
+    - We will go to Snoopy Best Pumpkin Patch and we will carve our Jack-O'-Lantern
+      together! (Lunch Included)
+    - Charlie Brown's Best Pumpkin Patch
+    - 104 Charlie Road
+    - Oct 20, 2020 (Tue)
+    - 11:00am - 3:00pm
+    - '2020-10-23 07:39:37.977495'
+    - '2020-10-23 07:39:37.977495'
+  - - 5
+    - Hike & Picnic
+    - We will hike to Charles Schulz hill and have picnic on top of the hill to enjoy
+      the breathtaking Peanutsland views. (Lunch not included)
+    - Charles Schulz Hill
+    - On top of Charles Schulz Hill
+    - Oct 24, 2020 (Sat)
+    - 11:00am - 4:00pm
+    - '2020-10-23 07:39:37.981185'
+    - '2020-10-23 07:39:37.981185'
+  - - 6
+    - Apple & More Apple!
+    - We will visit an apple orchard near Snoopy Village. Snoopy is very generous
+      to invite us to his famous red house, so we can make apple cobblers together.
+      (I mean who knows? Snoopy loves good food!)
+    - Snoopy Apple Orchards & Snoopy Red House
+    - Snoopy Village
+    - Oct 30, 2020 (Fri)
+    - 11:00am - 5:00pm
+    - '2020-10-23 07:39:37.985813'
+    - '2020-10-23 07:39:37.985813'
+  - - 7
+    - Halloween Movie Night
+    - Best time to watch horror movies. While kids go out and trick n treat, adults
+      stay home and watch horror movies. Lets get SPOOKY together!
+    - Brown House
+    - 104 Charlie Road
+    - Oct 31, 2020 (Sat)
+    - 8:00pm - 10:00pm
+    - '2020-10-23 07:39:37.990092'
+    - '2020-10-23 07:39:37.990092'
