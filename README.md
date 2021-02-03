@@ -20,7 +20,7 @@ Please refer to the front-end repository for more details.
 # Check Out Rails API
 
 Copy the following link and 
-https://peanuts-event-planner-backend.herokuapp.com/{insert the options follow here}
+https://peanuts-event-planner-backend.herokuapp.com/ and insert the following options under the "/"
 
 - activities
 - characters
