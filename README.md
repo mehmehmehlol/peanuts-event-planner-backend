@@ -1,13 +1,7 @@
 Peanuts Event Planner (Backend)
 ====
 
-## Objectives
-
-This project is designed as an event planner for our beloved Peanuts characters. 
-
-## Motivations
-
-I am a big fan of the Peanuts comic and I love planning. I want to combine my two favorite things into a fun application, which is now known as the "Peanuts Fall Event Planner".
+Please refer to the front-end repository for more details.
 
 ## Techology Used
 
@@ -23,31 +17,6 @@ I am a big fan of the Peanuts comic and I love planning. I want to combine my tw
 
 [Demo Video](https://youtu.be/taTyGeA-I3k)
 
-## Screenshots
-
-### Home
-
-![Home](images/home.png)
-
----
-
-### Activities
-
-![Activities](images/activities.png)
-
----
-
-### Events
-
-![Events](images/events.png)
-
----
-
-## Currently Improving
-
-- Form format
-- Unable to delete characters from the original database
-- Not able to load images when using Heroku backend database and Github pages
 
 ## Created By
 
