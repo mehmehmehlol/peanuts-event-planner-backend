@@ -1,24 +1,55 @@
-# README
+Peanuts Event Planner (Backend)
+====
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Objectives
 
-Things you may want to cover:
+This project is designed as an event planner for our beloved Peanuts characters. 
 
-* Ruby version
+## Motivations
 
-* System dependencies
+I am a big fan of the Peanuts comic and I love planning. I want to combine my two favorite things into a fun application, which is now known as the "Peanuts Fall Event Planner".
 
-* Configuration
+## Techology Used
 
-* Database creation
+- Frontend: Vanilla Javascript ([Frontend Repository](https://github.com/mehmehmehlol/peanuts-event-planner))
+- Backend: Ruby on Rails 
 
-* Database initialization
+## Installation
 
-* How to run the test suite
+- Clone this repository
+- Redirect to Frontend repository
 
-* Services (job queues, cache servers, search engines, etc.)
+## Demo Video
 
-* Deployment instructions
+[Demo Video](https://youtu.be/taTyGeA-I3k)
 
-* ...
+## Screenshots
+
+### Home
+
+![Home](images/home.png)
+
+---
+
+### Activities
+
+![Activities](images/activities.png)
+
+---
+
+### Events
+
+![Events](images/events.png)
+
+---
+
+## Currently Improving
+
+- Form format
+- Unable to delete characters from the original database
+- Not able to load images when using Heroku backend database and Github pages
+
+## Created By
+
+[Megan Lo](https://github.com/mehmehmehlol)
+
