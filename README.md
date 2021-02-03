@@ -17,6 +17,15 @@ Please refer to the front-end repository for more details.
 
 [Demo Video](https://youtu.be/taTyGeA-I3k)
 
+# Check Out Rails API
+
+Copy the following link and 
+https://peanuts-event-planner-backend.herokuapp.com/{insert the options follow here}
+
+- activities
+- characters
+- events
+
 
 ## Created By
 
